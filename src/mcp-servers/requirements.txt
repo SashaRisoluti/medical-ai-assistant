@@ -1,0 +1,28 @@
+# Core dependencies
+python>=3.9
+
+# MCP SDK
+# Note: Install from source until official package is available
+# git+https://github.com/modelcontextprotocol/python-sdk.git
+
+# Machine Learning
+torch>=2.0.0
+transformers>=4.35.0
+# For GPU support: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Audio processing (for HeAR)
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.11.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
