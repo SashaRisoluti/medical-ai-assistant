@@ -62,7 +62,7 @@ Integra 7 modelli specializzati di Google Health AI:
 
 ```
 ┌────────────────────────────────────────┐
-│    Electron Desktop App (UI Layer)    │
+│    Electron Desktop App (UI Layer)     │
 │         React + TypeScript             │
 └──────────────┬─────────────────────────┘
                │
@@ -79,7 +79,7 @@ Integra 7 modelli specializzati di Google Health AI:
   │MedGem││ HeAR  ││TxGem ││ Found.│
   │ma    ││       ││ma    ││ Models│
   │ MCP  ││  MCP  ││ MCP  ││  MCP  │
-  │Server││Server ││Server ││Server │
+  │Server││Server ││Server││Server │
   └──────┘└───────┘└──────┘└───────┘
 ```
 
