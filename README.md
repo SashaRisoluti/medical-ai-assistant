@@ -108,7 +108,7 @@ Integra 7 modelli specializzati di Google Health AI:
 
 ### Metodo 1: Installer Pre-compilato (Consigliato per Utenti)
 
-1. Scarica l'installer dalla [pagina Releases](https://github.com/tuo-username/medical-ai-assistant/releases)
+1. Scarica l'installer dalla [pagina Releases](https://github.com/SashaRisoluti/medical-ai-assistant/releases)
    - **Windows**: `Medical-AI-Assistant-Setup-1.0.0.exe`
    - **macOS**: `Medical-AI-Assistant-1.0.0.dmg`
    - **Linux**: `Medical-AI-Assistant-1.0.0.AppImage`
@@ -409,10 +409,10 @@ MIT License - vedi [LICENSE](LICENSE) per dettagli.
 
 ## 📞 Contatti
 
-- **Autore**: [Tuo Nome]
-- **Email**: tuo@email.com
-- **GitHub**: [@tuo-username](https://github.com/tuo-username)
-- **Issues**: [GitHub Issues](https://github.com/tuo-username/medical-ai-assistant/issues)
+- **Autore**: Sasha Risoluti
+- **Email**: risoluti.sasha00@gmail.com
+- **GitHub**: [@SashaRisoluti](https://github.com/SashaRisoluti)
+- **Issues**: [GitHub Issues](https://github.com/SashaRisoluti/medical-ai-assistant/issues)
 
 ## 🔗 Link Utili
 
